@@ -12,4 +12,4 @@ elif pris > 15 and pris <  20:
     print('Tanka 10 liter')
 
 elif pris > 20:
-    print('Nu saljer jag bilen och cyklar istallet')
+    print('Nu saljer jag bilen och cyklar istallet') #
